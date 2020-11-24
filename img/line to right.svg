@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 18" width="36" height="18">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1322 -3544L278 -3544L278 2368L-1322 2368Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #5347e8 } 
+	</style>
+	<g id="Medical Healthcare Landing Page" clip-path="url(#cp1)">
+		<g id="Our Doctors">
+			<g id="arrow">
+				<g id="down-arrow">
+					<g id="Group 13">
+						<path id="Path 8" class="shp0" d="M26.01 0.66C25.48 1.2 25.48 2.07 26.01 2.6L30.83 7.39L1.77 7.39C1.01 7.39 0.4 8 0.4 8.76C0.4 9.52 1.01 10.13 1.77 10.13L30.83 10.13L26.01 14.92C25.48 15.46 25.48 16.33 26.01 16.86C26.54 17.4 27.41 17.4 27.95 16.87L35.12 9.73C35.12 9.73 35.12 9.73 35.12 9.73C35.66 9.2 35.66 8.33 35.12 7.79C35.12 7.79 35.12 7.79 35.12 7.79L27.95 0.66C27.41 0.12 26.54 0.12 26.01 0.66Z" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 109 14" width="109" height="14">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-746 -5267L854 -5267L854 645L-746 645Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #5347e8 } 
+		.shp1 { opacity: 0.4;fill: #5347e8 } 
+	</style>
+	<g id="Medical Healthcare Landing Page" clip-path="url(#cp1)">
+		<g id="Testimonial">
+			<g id="Slider">
+				<path id="Rectangle 74" class="shp0" d="M7 0L24 0C27.87 0 31 3.13 31 7L31 7C31 10.87 27.87 14 24 14L7 14C3.13 14 0 10.87 0 7L0 7C0 3.13 3.13 0 7 0Z" />
+				<path id="Rectangle 75" class="shp1" d="M50 0L50 0C53.87 0 57 3.13 57 7L57 7C57 10.87 53.87 14 50 14L50 14C46.13 14 43 10.87 43 7L43 7C43 3.13 46.13 0 50 0Z" />
+				<path id="Rectangle 76" class="shp1" d="M76 0L76 0C79.87 0 83 3.13 83 7L83 7C83 10.87 79.87 14 76 14L76 14C72.13 14 69 10.87 69 7L69 7C69 3.13 72.13 0 76 0Z" />
+				<path id="Rectangle 77" class="shp1" d="M102 0L102 0C105.87 0 109 3.13 109 7L109 7C109 10.87 105.87 14 102 14L102 14C98.13 14 95 10.87 95 7L95 7C95 3.13 98.13 0 102 0Z" />
+			</g>
+		</g>
+	</g>
+</svg>
