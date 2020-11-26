@@ -18,7 +18,8 @@ body{
 }
 .main-list{
 	display: flex;
-	justify-content: space-between;
+
+	
 
 }
 .main-title{
@@ -27,13 +28,15 @@ body{
 	text-transform: capitalize;
 }
 .main-item{
-	display: flex;
-	padding-top: 38px;
+	margin: 40PX;
 	text-transform: capitalize;
 
 
 
 
+}
+.main-item4{
+	display: flex;
 }
 .main-img{
 	border: 1px solid blue;
@@ -52,6 +55,12 @@ body{
 	border-bottom: 10px solid blue;
 	transition: .5s;
 	
+}
+.main-nav{
+	padding-top: 40px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 }
 
 .button{
